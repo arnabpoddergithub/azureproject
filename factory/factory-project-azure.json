@@ -1,0 +1,9 @@
+{
+	"name": "factory-project-azure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2514bc64-8fac-4e8a-9af0-be8c80b656cc",
+		"tenantId": "0cdb1ab0-cff2-4717-af58-80c7dd15627d"
+	}
+}
